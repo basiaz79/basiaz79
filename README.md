@@ -15,28 +15,28 @@ ideas are shared, challenges are tackled collectively, and
 successes are celebrated together
 
 
-TECH SKILLS
+# TECH SKILLS
 
 
-SQL
-JSON
-HTML+ CSS
-Postman
-TestRail
-XML
-Jira
-Trello
-Qase
-Github
-DBeaver
-DevTools
-API testing
-CI/CD
-Mobile Testing
-Test cases and scenarios
-Bug reports
-Black and White-Box Testing
-Preparing test reports
+SQL</br>
+JSON</br>
+HTML+ CSS</br>
+Postman</br>
+TestRail</br>
+XML</br>
+Jira</br>
+Trello</br>
+Qase</br>
+Github</br>
+DBeaver</br>
+DevTools</br>
+API testing</br>
+CI/CD</br>
+Mobile Testing</br>
+Test cases and scenarios</br>
+Bug reports</br>
+Black and White-Box Testing</br>
+Preparing test reports</br>
 
 
 SOFT SKILLS
