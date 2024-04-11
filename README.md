@@ -18,41 +18,41 @@ successes are celebrated together
 # TECH SKILLS
 
 
-SQL</br>
-JSON</br>
-HTML+ CSS</br>
-Postman</br>
-TestRail</br>
-XML</br>
-Jira</br>
-Trello</br>
-Qase</br>
-Github</br>
-DBeaver</br>
-DevTools</br>
-API testing</br>
-CI/CD</br>
-Mobile Testing</br>
-Test cases and scenarios</br>
-Bug reports</br>
-Black and White-Box Testing</br>
-Preparing test reports</br>
+<li>SQL</br>
+<li>JSON</br>
+<li>HTML+ CSS</br>
+<li>Postman</br>
+<li>TestRail</br>
+<li>XML</br>
+<li>Jira</br>
+<li>Trello</br>
+<li>Qase</br>
+<li>Github</br>
+<li>DBeaver</br>
+<li>DevTools</br>
+<li>API testing</br>
+<li>CI/CD</br>
+<li>Mobile Testing</br>
+<li>Test cases and scenarios</br>
+<li>Bug reports</br>
+<li>Black and White-Box Testing</br>
+<li>Preparing test reports</br>
 
 
 # SOFT SKILLS
 
-Teamwork</br>
-Precision and attention to details</br>
-Good work organization</br>
-Ability to work independently</br>
-Communication</br>
+<li>Teamwork</br>
+<li>Precision and attention to details</br>
+<li>Good work organization</br>
+<li>Ability to work independently</br>
+<li>Communication</br>
 
 
 # LANGUAGES
 
-English- C1/C2</br>
-Polish- Native</br>
-Spanish- A1</br>
+<li>English- C1/C2</br>
+<li>Polish- Native</br>
+<li>Spanish- A1</br>
 
 <!---
 basiaz79/basiaz79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
