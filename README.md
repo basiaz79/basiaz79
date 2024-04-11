@@ -17,6 +17,7 @@ successes are celebrated together
 
 TECH SKILLS
 
+
 SQL
 JSON
 HTML+ CSS
