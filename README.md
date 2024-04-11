@@ -1,4 +1,4 @@
-ABOUT ME
+# ABOUT ME
 
 I am a Junior Quality Assurance Engineer.
 My interest in software testing comes from my conviction
@@ -39,20 +39,20 @@ Black and White-Box Testing</br>
 Preparing test reports</br>
 
 
-SOFT SKILLS
+# SOFT SKILLS
 
-Teamwork
-Precision and attention to details
-Good work organization
-Ability to work independently
-Communication
+Teamwork</br>
+Precision and attention to details</br>
+Good work organization</br>
+Ability to work independently</br>
+Communication</br>
 
 
-LANGUAGES
+# LANGUAGES
 
-English- C1/C2
-Polish- Native
-Spanish- A1
+English- C1/C2</br>
+Polish- Native</br>
+Spanish- A1</br>
 
 <!---
 basiaz79/basiaz79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
