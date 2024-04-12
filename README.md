@@ -17,7 +17,6 @@ successes are celebrated together
 
 # TECH SKILLS
 
-
 <li>SQL</br>
 <li>JSON</br>
 <li>HTML+ CSS</br>
@@ -39,6 +38,12 @@ successes are celebrated together
 <li>Preparing test reports</br>
 
 
+# CERTIFICATES
+
+<li>2024- ISTQB Certificate -in Progress
+<li>2024- QA Manual Engineer Certificate
+
+
 # SOFT SKILLS
 
 <li>Teamwork</br>
@@ -54,6 +59,21 @@ successes are celebrated together
 <li>Polish- Native</br>
 <li>Spanish- A1</br>
 
+
+# EDUCATION
+
+<li>GoIT | AQA (Automation)  Engineer
+</li>April 2024- July 2024
+
+<li>GoIT | QA Manual Engineer
+</li>November 2023- March 2024
+
+<li>Real Estate School in New Jersey, USA
+</li>March 2011 – May 2011
+
+<li>Baruch College- BBA Finance Management
+</li>September 1997 - May 2002 
+  
 <!---
 basiaz79/basiaz79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
